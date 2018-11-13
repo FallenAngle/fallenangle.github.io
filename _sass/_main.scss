@@ -9,9 +9,9 @@ body {
 	width: 800px;
 	margin: auto;
 	margin-top: 20px;
-	background: #bfb8bf;
+	background: #000000;
 	border: 2px solid;
-	border-color: #fff8ff #ff0000 #000000 #fff8ff;
+	border-color: #ff0000 #ff0000 #000000 #ff0000;
 	padding: 2px 0;
 }
 .default_title, .post_title {
@@ -19,7 +19,7 @@ body {
 	position: relative;
 
 	h1 {
-		color: #bfb8bf;
+		color: #0f0;
 		font-size: 14px;
 		font-weight: bold;
 	}
@@ -41,12 +41,12 @@ body {
 	}
 
 	.btn {
-		background: #cccccc;
+		background: #222;
 		width: 13px;
 		height: 11px;
 		float: right;
 		border: 2px solid;
-		border-color: #fff8ff #ff0000 #000000 #fff8ff;
+		border-color: #f00 #ff0000 #f00 #f00;
 
 		span {
 			font-size: 11px;
@@ -86,14 +86,14 @@ ul.topbar {
 	}
 	a {
 		text-decoration: none;
-		color: #000000;
+		color: #ff0000;
 	}
 }
 .post_list, .tag_list, .post_content {
-	background: #fff8ff;
+	background: #000;
 	border-width: 2px;
 	border-style: ridge groove groove ridge;
-	border-color: #7f787f #fff8ff #fff8ff #7f787f;
+	border-color: #f00 #f00 #f00 #f00;
 }
 .post_list {
 	width: 70.2%;
@@ -163,7 +163,7 @@ ul.topbar {
     padding:0 0 0 2px;
 }
 #tag-list li a {
-    background: #fff8ff;
+    background: #000;
     display:block;
 }
 #tag-list li ul li {
@@ -174,7 +174,7 @@ ul.topbar {
 .post_total {
 	.left, .right {
 		border: 1px solid;
-		border-color: #888888 #dadada #dadada #888888;
+		border-color: #f00 #f00 #f00 #f00;
 		display: inline-block;
 		padding: 1px 3px;
 	}
@@ -234,7 +234,7 @@ ul.topbar {
 	}
 
 	hr {
-		border-top: 3px solid #333333;
+		border-top: 3px solid #f0f;
 		border-left: 0;
 	}
 
@@ -273,7 +273,7 @@ ul.topbar {
 	}
 
 	table, th, td {
-		border: 1px solid #222222;
+		border: 1px solid #f00;
 		padding: 2px;
 	}
 
@@ -282,7 +282,7 @@ ul.topbar {
 	}
 }
 .hljs {
-	background: #fff8ff;
+	background: #ff0;
 }
 .footer {
 	font-size: 12px;
@@ -292,7 +292,7 @@ ul.topbar {
 		text-align: center;
 
 		a {
-			color: #24244a;
+			color: #0f0;
 		}
 	}
 }
