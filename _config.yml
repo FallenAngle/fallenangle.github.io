@@ -1,9 +1,9 @@
 permalink: /:year:month:day/:title
-url: #Your url here
+url: #
 baseurl: /project
 
 # variables
-name: Your Site Name
+name: Official Hacker's
 description: Your description here
 google_verification: null
 
