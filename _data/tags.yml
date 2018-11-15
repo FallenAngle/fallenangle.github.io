@@ -1,11 +1,11 @@
-tag1:
-  name: tag1
+Windows:
+  name: Windows
 
-tag2:
-  name: tag2
+Hacking:
+  name: Hacking
 
-tag3:
-  name: tag3
+Tools:
+  name: Tools
 
-tag4:
-  name: tag4
+Tricks:
+  name: Tricks
