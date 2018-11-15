@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: default 
 title: Anonymous
+author: Mr. Hacking Tiger
 tags: Anonymous
 ---
 
