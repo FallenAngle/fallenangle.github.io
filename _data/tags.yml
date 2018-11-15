@@ -1,11 +1,11 @@
 Windows:
-  name: Windows
+  name: windows
 
 Hacking:
-  name: Hacking
+  name: hacking
 
 Tools:
-  name: Tools
+  name: tools
 
-Tricks:
-  name: Anonymous
+Anonymous:
+  name: anonymous
