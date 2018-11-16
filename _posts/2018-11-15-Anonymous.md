@@ -1,8 +1,8 @@
 ---
 layout: default 
-title: anonymous
+title: Anonymous
 author: Mr. Hacking Tiger
-tags: Anonymous
+tags: anonymous
 ---
 
 17 steps to being completely anonymous online
