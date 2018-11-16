@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: Anonymous
+title: "Anonymous"
 author: Mr. Hacking Tiger
 tags: anonymous
 ---
