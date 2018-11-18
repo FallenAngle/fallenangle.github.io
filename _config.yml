@@ -14,14 +14,6 @@ google_verification: null
 include: [".htaccess"]
 exclude: ["README.md", "LICENSE"]
 
-jekyll_admin: 
- hidden_links: 
-  - posts 
-  - pages 
-  - staticfiles
-  - datafiles
-  - configuration
-
 # Sass
 sass:
   style: :compressed
